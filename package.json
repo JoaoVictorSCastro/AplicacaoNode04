@@ -1,0 +1,27 @@
+{
+  "name": "aplicacaonode",
+  "version": "1.0.0",
+  "description": "aplicativo da aula",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmolinaris/AplicacaoNODEAula04.git"
+  },
+  "keywords": [
+    "aplicacao",
+    "aula",
+    "teste"
+  ],
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmolinaris/AplicacaoNODEAula04/issues"
+  },
+  "homepage": "https://github.com/gabrielmolinaris/AplicacaoNODEAula04#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
+}
